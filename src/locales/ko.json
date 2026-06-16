@@ -1,5 +1,6 @@
 {
   "controls": { "play": "재생", "pause": "일시정지", "now": "현재", "reverse": "역방향", "forward": "정방향" },
+  "cometsLabel": "혜성",
   "comets": { "encke": "엥케 혜성", "halley": "핼리 혜성", "tempeltuttle": "템펠-터틀 혜성", "swifttuttle": "스위프트-터틀 혜성" },
   "ui": {
     "title": "태양계 탐험",

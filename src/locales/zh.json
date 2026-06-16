@@ -1,5 +1,6 @@
 {
   "controls": { "play": "播放", "pause": "暂停", "now": "现在", "reverse": "倒放", "forward": "正放" },
+  "cometsLabel": "彗星",
   "comets": { "encke": "恩克彗星", "halley": "哈雷彗星", "tempeltuttle": "坦普尔-塔特尔彗星", "swifttuttle": "斯威夫特-塔特尔彗星" },
   "ui": {
     "title": "探索太阳系",

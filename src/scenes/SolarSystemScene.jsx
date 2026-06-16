@@ -33,7 +33,7 @@ function OrbitingBody({ body, onSelect, t }) {
   )
 }
 
-export default function SolarSystemScene({ onSelect }) {
+export default function SolarSystemScene({ onSelect, showComets = true }) {
   const { t } = useTranslation()
   const orbiting = useMemo(() => [...PLANETS, ...DWARFS], [])
 
@@ -52,7 +52,7 @@ export default function SolarSystemScene({ onSelect }) {
         <OrbitingBody key={b.id} body={b} onSelect={onSelect} t={t} />
       ))}
 
-      {COMETS.map((c) => (
+      {showComets && COMETS.map((c) => (
         <Comet key={c.id} comet={c} t={t} />
       ))}
 

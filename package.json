@@ -1,7 +1,7 @@
 {
   "name": "solar-system-3d",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "다국어 인터랙티브 3D 태양계 탐험 (React + React Three Fiber)",
   "scripts": {

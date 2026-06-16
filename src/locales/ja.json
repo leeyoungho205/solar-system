@@ -1,5 +1,6 @@
 {
   "controls": { "play": "再生", "pause": "一時停止", "now": "現在", "reverse": "逆再生", "forward": "順再生" },
+  "cometsLabel": "彗星",
   "comets": { "encke": "エンケ彗星", "halley": "ハレー彗星", "tempeltuttle": "テンペル・タットル彗星", "swifttuttle": "スイフト・タットル彗星" },
   "ui": {
     "title": "太陽系を探検",

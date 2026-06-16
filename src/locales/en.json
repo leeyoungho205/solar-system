@@ -1,5 +1,6 @@
 {
   "controls": { "play": "Play", "pause": "Pause", "now": "Now", "reverse": "Reverse", "forward": "Forward" },
+  "cometsLabel": "Comets",
   "comets": { "encke": "Encke", "halley": "Halley", "tempeltuttle": "Tempel–Tuttle", "swifttuttle": "Swift–Tuttle" },
   "ui": {
     "title": "Explore the Solar System",
