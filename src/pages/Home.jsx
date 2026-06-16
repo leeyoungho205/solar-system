@@ -9,7 +9,7 @@ export default function Home() {
   const { t } = useTranslation()
   const navigate = useNavigate()
   const { lang } = useParams()
-  const [showComets, setShowComets] = useState(true)
+  const [showComets, setShowComets] = useState(false)
 
   function onSelect(id) {
     navigate(`/${lang}/body/${id}`)
