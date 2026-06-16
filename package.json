@@ -1,0 +1,27 @@
+{
+  "name": "solar-system-3d",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "다국어 인터랙티브 3D 태양계 탐험 (React + React Three Fiber)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.114.3",
+    "@react-three/fiber": "^8.17.10",
+    "i18next": "^23.15.2",
+    "i18next-browser-languagedetector": "^8.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-i18next": "^15.0.3",
+    "react-router-dom": "^6.27.0",
+    "three": "^0.169.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.2",
+    "vite": "^5.4.9"
+  }
+}
